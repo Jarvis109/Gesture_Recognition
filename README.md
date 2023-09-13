@@ -88,11 +88,7 @@ We welcome contributions from the community to make this repository more valuabl
 
 We appreciate your contributions and look forward to building a strong gesture recognition community together.
 
-## License
 
-This repository is licensed under the MIT License. Please see the [LICENSE](LICENSE) file for more details.
-
----
 
 Thank you for visiting the Gesture Recognition repository. We hope you find it useful and inspiring for your gesture recognition endeavors. If you have any questions or suggestions, feel free to open an issue or join the discussions in the community. Happy coding! 🚀
 
